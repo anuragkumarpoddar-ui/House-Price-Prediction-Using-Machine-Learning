@@ -80,7 +80,6 @@ Based on the test-set results, **Linear Regression** emerged as the leading cand
 * Explore additional regression algorithms.
 
 
-
 ## 👨‍💻 Author
 
 **Anurag Kumar Poddar**
